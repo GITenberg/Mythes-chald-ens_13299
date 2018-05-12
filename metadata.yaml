@@ -1,0 +1,28 @@
+_repo: Mythes-chald-ens_13299
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heuzey, Léon Alexandre
+    alias: Heuzey, Leon Alexandre
+    birthdate: 1831
+    deathdate: 1922
+    gutenberg_agent_id: '4983'
+    url: http://www.gutenberg.org/2009/agents/4983
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2004-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13299'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Assyro-Babylonian'
+- !lcc 'BL'
+title: Mythes chaldéens
+url: http://www.gutenberg.org/ebooks/13299
